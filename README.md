@@ -1,3 +1,5 @@
+Timeline: 
+
 * 01/24/2020: ACE2: Angiotensin I Converting Enzyme 2,  functional receptor for the spike glycoprotein of the human coronaviruses SARS and HCoV-NL63.
 * 01/23/2020: Phylogeny of 6 SARS-like betacoronaviruses in Wuhan. 
 * ![Phylogeny](https://raw.githubusercontent.com/Shicheng-Guo/Shicheng-Guo.Github.io/master/images/Shicheng-Guo-2019-nCoV-SARS.JPG)
